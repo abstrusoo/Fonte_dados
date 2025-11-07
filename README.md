@@ -26,5 +26,6 @@ Na pergunta N° 5 utilizamos a formula =MAXIMOSES para encontrar o maior VTI, =C
 
 # Atividade 3 - Introdução ao Power BI
 
+![491854711-efefeec1-4554-4144-aa0e-a946eb42e62a](https://github.com/user-attachments/assets/3a0bf870-7145-4668-a071-5613e69659f2)
 
  
