@@ -34,6 +34,8 @@ Na pergunta N° 5 utilizamos a formula =MAXIMOSES para encontrar o maior VTI, =C
 
 # Atividade 5 - IceCream
 
+<img width="1297" height="666" alt="Captura de tela 2025-11-07 215142" src="https://github.com/user-attachments/assets/bf6b3a78-1fe3-4af4-9898-a471d27aa6f1" />
+
 <img width="986" height="613" alt="Captura de tela 2025-11-07 212827" src="https://github.com/user-attachments/assets/30709c4d-2fb9-4e75-849f-6d8b0353251f" />
 
 
