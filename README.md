@@ -28,7 +28,15 @@ Na pergunta N° 5 utilizamos a formula =MAXIMOSES para encontrar o maior VTI, =C
 
 ![505027305-6d301913-5997-42ee-8dc8-3a81faa62b02](https://github.com/user-attachments/assets/a3d47cba-7515-41dd-885c-8596c069e8d5)
 
-# Atividade 5
+# Atividade 4 - Modelando Power bi
+
+<img width="1032" height="588" alt="Captura de tela 2025-11-07 212535" src="https://github.com/user-attachments/assets/f214ffab-52c5-495c-bf33-1122d0632650" />
+
+# Atividade 5 - IceCream
+
+
+
+# Atividade 6 - Experiência vs Salario
 
 <img width="938" height="640" alt="Captura de tela 2025-11-07 210624" src="https://github.com/user-attachments/assets/82d6b64c-45f7-4e47-84cc-7d557fb5c9cf" />
 
